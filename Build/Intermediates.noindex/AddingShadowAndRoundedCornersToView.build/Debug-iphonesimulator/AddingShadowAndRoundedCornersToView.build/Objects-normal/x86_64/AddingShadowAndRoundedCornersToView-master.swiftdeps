@@ -1,6 +1,0 @@
-version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
-options: "8ca147491d7b08f7500835b5c37d2952"
-build_time: [1566178556, 858836000]
-inputs:
-  "/Users/josiahrininger/Xcode Projects/AddShadow&RoundedCornersToView/AddShadowAndRoundedCornersToView/AddingShadowAndRoundedCornersToView/ViewController.swift": [1566176972, 65189763]
-  "/Users/josiahrininger/Xcode Projects/AddShadow&RoundedCornersToView/AddShadowAndRoundedCornersToView/AddingShadowAndRoundedCornersToView/AppDelegate.swift": [1566160234, 78422512]
