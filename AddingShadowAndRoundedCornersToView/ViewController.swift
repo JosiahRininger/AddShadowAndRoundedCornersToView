@@ -23,6 +23,7 @@ class ViewController: UIViewController {
     }()
     
     // Creates your contentsLayer
+    // Add all your subsequent subviews to your contentsLayer
     var contentsLayer: UIView = {
         let view = UIView()
         view.backgroundColor = .orange
